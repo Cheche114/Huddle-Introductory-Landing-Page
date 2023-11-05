@@ -114,5 +114,8 @@ main .quote{
     main .quote{
         padding-left: 0;
     }
-    
+
+    .social{
+        margin-right: 5px;
+    }
 }
