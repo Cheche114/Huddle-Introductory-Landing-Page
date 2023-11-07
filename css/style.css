@@ -16,7 +16,7 @@ body{
 .container{
     max-width: 1440px;
     margin: 50px auto;
-    padding: 0 5em; 
+    padding: 0 7em; 
 }
 
 h1{
@@ -116,6 +116,6 @@ main .quote{
     }
 
     .social{
-        margin-right: 10px;
+        margin-right: 15px;
     }
 }
